@@ -66,14 +66,11 @@ Thank you to our sponsors for helping us make this event happen!
 - **Host:** Zapproved 
 - **Gold Sponsors:** Microsoft Azure Sphere and Intel Open Source
 
-## Who should attend & Rulews
+## Who should attend & Rules
 
 - All skill levels are welcome. We are looking for developers, designers, product people, and anyone interested in learning more about the Internet of Things.
-
 - Teams are only allowed to use the hardware and sensors provided.
-
 - All coding for the Submission must be done during the weekend of the Hackathon.
-
 - By coming to this event, you are agreeing to follow our Code of Conduct. 
 
 ## Code of Conduct
@@ -87,7 +84,6 @@ If you want to know more about last year's WWCode Portland - IoT Hackathon, belo
 - Blog post by Sarah Joy Calpo: https://medium.com/@WWCodePortland/a-look-back-at-the-women-who-code-portland-iot-hackathon-2018-e7ddf225bbf1
 
 - Photos by Sarah Joy Calpo and mJordan Levine: https://photos.app.goo.gl/fFd2BGXuz49U3K8d7
-
 
 - Highlights Reel by Backpedal.tv: https://youtu.be/tBGJ2dbKTL0
 
